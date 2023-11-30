@@ -1,0 +1,3 @@
+mkdir c:/tools/prueba
+
+#
