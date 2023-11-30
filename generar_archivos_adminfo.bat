@@ -2,7 +2,7 @@
 
 REM Set the path to the OpenEdge bin directory
 set OPENEDGE_BIN=C:\OpenEdge\bin
-#Lina Nueva
+
 REM Set the path to the sfg.pf file
 set SFG_PF=C:\Tools\Jenkins\sfg.pf
 
