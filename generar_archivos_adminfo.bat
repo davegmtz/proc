@@ -14,3 +14,6 @@ set R_SCRIPT=\\10.20.5.12\Obj_Pru\GenerarArchivosAdminfo.r
 
 REM Run the mbpro command
 %OPENEDGE_BIN%\mbpro -pf %SFG_PF% -ininame %SFG_INI% -p %R_SCRIPT%
+
+
+//#Lina Nueva
